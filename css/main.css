@@ -118,8 +118,6 @@ html,body{
     background-repeat: no-repeat;
     background-position: center;
 }
-background-position: center;
-}
 @media (max-width:904px) {
     .box{
         display: block;
