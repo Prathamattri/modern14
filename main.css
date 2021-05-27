@@ -127,7 +127,7 @@ html,body{
         margin-bottom: 20px;
     }
     .logo_img{
-        content: url('/images/pattri2.png');
+        content: url(./images/pattri2.png);
     }
 
     .nav ul li, a{
