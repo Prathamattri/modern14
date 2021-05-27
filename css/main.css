@@ -121,25 +121,25 @@ html,body{
 .image1{
     display: block;
     /* background: #000; */
-    background: url("/images/cpu-tower.png");
+    background: url("./images/cpu-tower.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 .image2 {
-    background: url('/images/ram.png');
+    background: url('./images/ram.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 .image3 {
-    background: url('/images/ssd-drive.png');
+    background: url('./images/ssd-drive.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 .image4 {
-    background: url('/images/feather.png');
+    background: url('./images/feather.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
