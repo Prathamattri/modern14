@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Rajdhani');
 *{
     box-sizing: border-box;
-    border:1px solid #00F;
+/*     border:1px solid #00F; */
 }
 html,body{
     margin: 0;
