@@ -2,17 +2,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Rajdhani');
 *{
     box-sizing: border-box;
-    /* border:1px solid #00F; */
 }
-/* body{
-    background:gray;
-} */
 html,body{
     margin: 0;
     padding: 0;
     overflow-x: hidden;
     font-family: Rajdhani;
-    /* font-weight: 600; */
 }
 
 .page{
@@ -44,7 +39,6 @@ html,body{
     outline: none;
     box-sizing: border-box;
     width: auto;
-    /* position: relative; */
     z-index: 202;
     zoom: 1;
 }
@@ -153,7 +147,7 @@ h6 {
         width: 100%;
 }
 .featured h1{
-    font-family: 'Mate SC', serif;
+    font-weight:400;
 }
 .place_center{
     display: grid;
